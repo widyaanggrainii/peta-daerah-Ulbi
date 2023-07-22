@@ -4,6 +4,8 @@
 2. buka browser lalu ketik localhost/peta-daerah-Ulbi
 3. lalu akan muncul tampilan seperti gambar dibawah ini dengan koordinat Kampus ULBI
 
+![image](https://github.com/widyaanggrainii/peta-daerah-Ulbi/assets/80238819/dab67f6b-2d8d-4238-bc7d-7053b4f34871)
+
 ![image](https://github.com/widyaanggrainii/peta-daerah-Ulbi/assets/80238819/186b158e-5534-4538-9539-5b9ff053afb4)
 
 ![image](https://github.com/widyaanggrainii/peta-daerah-Ulbi/assets/80238819/bf49083d-cfbd-405a-ae7d-c983dea6dc34)
