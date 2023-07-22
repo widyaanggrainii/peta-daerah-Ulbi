@@ -1,7 +1,7 @@
 # peta-daerah-Ulbi
 # Tahap - tahap menampilkan peta ulbi
 1. buat folder dengan nama peta-daerah-Ulbi
-2. lalu buat source code dengan nama file petaulbi.php dan nemambahkan foto dengan nama 0
+2. lalu buat source code dengan nama file petaulbi.php dan nemambahkan foto dengan nama 0 di folder
 3. jalankan xampp Apache dan MySql
 4. buka browser lalu ketik localhost/peta-daerah-Ulbi
 5. lalu akan muncul tampilan seperti gambar dibawah ini dengan koordinat Kampus ULBI
