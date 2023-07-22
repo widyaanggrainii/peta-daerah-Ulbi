@@ -1,8 +1,10 @@
 # peta-daerah-Ulbi
 # Tahap - tahap debugging
-1. jalankan xampp Apache dan MySql
-2. buka browser lalu ketik localhost/peta-daerah-Ulbi
-3. lalu akan muncul tampilan seperti gambar dibawah ini dengan koordinat Kampus ULBI
+1. buat folder dengan nama peta-daerah-Ulbi
+2. lalu buat source code dengan nama file petaulbi.php dan nemambahkan foto dengan nama 0
+3. jalankan xampp Apache dan MySql
+4. buka browser lalu ketik localhost/peta-daerah-Ulbi
+5. lalu akan muncul tampilan seperti gambar dibawah ini dengan koordinat Kampus ULBI
 
 ![image](https://github.com/widyaanggrainii/peta-daerah-Ulbi/assets/80238819/dab67f6b-2d8d-4238-bc7d-7053b4f34871)
 
