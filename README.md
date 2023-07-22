@@ -1,5 +1,5 @@
 # peta-daerah-Ulbi
-# Tahap - tahap debugging
+# Tahap - tahap menampilkan peta ulbi
 1. buat folder dengan nama peta-daerah-Ulbi
 2. lalu buat source code dengan nama file petaulbi.php dan nemambahkan foto dengan nama 0
 3. jalankan xampp Apache dan MySql
